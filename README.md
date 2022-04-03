@@ -1,1 +1,1 @@
-# Coding-Quiz
+# beat-the-clock
